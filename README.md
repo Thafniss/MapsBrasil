@@ -17,7 +17,7 @@ Ao clicar no estado, o usuário é redirecionado para uma página do Google com 
 ### Como executar
 1. Clone este repositório:
    
-`git clone https://github.com/Thafniss/MapsBrasil.git`
+``git clone https://github.com/Thafniss/MapsBrasil.git``
 
 3. Abra o arquivo `index.html` no navegador.
 
@@ -43,11 +43,10 @@ When clicking on a state, the user is redirected to a Google page with informati
 ### How to Run
 1. Clone this repository:  
    
-`git clone https://github.com/Thafniss/MapsBrasil.git`
+``git clone https://github.com/Thafniss/MapsBrasil.git``
 
-**
+
 2. Open the `index.html` file in your browser.
 
 ### Contact
 If you have any questions or suggestions, please contact: Thafnisramos3145@gmail.com
-**
